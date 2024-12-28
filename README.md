@@ -2,7 +2,7 @@
 
 # ICT340 End-of-Course Assessment (ECA01) - January Semester 2024
 
-**Question 1**
+### Question 1
 Read the system requirements of PickMeNow in the Appendix and submit answers to
 the following:
 
@@ -15,9 +15,11 @@ Identify the Actors in the system.
 **ANS:**
 
 Primary Actors:
+
 Drivers, Customers, Administrator, Premium Customers (Inherited From Customers)
 
 Supporting Actors:
+
 Bank System
 
 
@@ -53,16 +55,20 @@ Further, do not include general commentaries in your answer.
 The system design is inconsistent and ambiguous.
 
 1. Inconsistent Cancellation Policy:
+   
 It is inconsistent because the requirements excerpt mentions that customers can always cancel without any penalty which contradicts the information in the appendix which stated that customers would be penalized with a $4 surcharge fee for cancelling after 5 minutes of car bookings.
 
-2. Ambiguous Vehicle Selection:
+3. Ambiguous Vehicle Selection:
+
 It is ambiguous because the requirements excerpt mentions that customers can choose a destination and wait for a taxi to arrive which is ambiguous because the information in the appendix stated that PickMeNow offers customers 3 different types of vehicles for their ride which are cars, vans and excursion buses. Meanwhile, the requirements excerpt does not clarify if taxi referred to all vehicle types or 1 of the 3 vehicle types that customers can choose from. 
 
 
-**Question 2**
+### Question 2
+
 Develop a structural model for the food ordering system design, by submitting your answers to the following:
 
 **Question 2a (15 marks)**
+
 Complete the class description by identifying classes, their attributes and any hierarchical relationship(s) that would be required for the application.
 
 **ANS:**
@@ -78,6 +84,8 @@ Appraise the associations among the classes and hierarchical relationship(s) tha
 be required for the application. Construct the class association diagram in UML as your
 answer. Ensure that you do not include any derived or redundant association in your
 diagram.
+
+
 
 
 **Appendix:**
