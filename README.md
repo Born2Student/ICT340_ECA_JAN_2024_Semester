@@ -140,6 +140,25 @@ Draw the state diagram for a Ride object as it passes through the system.
 <img width="504" alt="image" src="https://github.com/user-attachments/assets/6296dc1f-3915-40ca-bbe0-3dafa0899e13" />
 
 
+### Question 5
+
+Demonstrate the application of the observer pattern in the PickMeNow system by submitting your answers to the following:
+
+**Question 5a (8 marks)**
+
+Develop a structural model of the system that uses the observer pattern by constructing the class association diagram that allows an administrator to register interest in receiving feedback and as soon as a customer gives a feedback, the administrator will be informed to process the feedback.
+
+**ANS:**
+
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/44e538cc-74ab-419e-8094-77d1349602e8" />
+
+**Question 5b (10 marks)**
+
+Implement the concrete classes for the structural model in Question 5(a).
+
+**ANS:**
+
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/2a19ea9f-ae07-4c84-a45b-fbdcc2b11006" />
 
 
 **Appendix:**
