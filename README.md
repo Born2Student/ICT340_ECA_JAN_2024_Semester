@@ -6,7 +6,9 @@
 Read the system requirements of PickMeNow in the Appendix and submit answers to
 the following:
 
-**Question 1a (5 marks)** 
+**Question 1a** 
+
+**Question 1(a)(i) (5 marks)**
 
 Identify the Actors in the system.
 
@@ -16,6 +18,14 @@ Drivers, Customers, Administrator, Premium Customers (Inherited From Customers)
 Supporting Actors:
 Bank System
 
+
+**Question 1(a)(ii) (13 marks)**
+
+Formulate a use case diagram to depict the PickMeNow system design.
+
+Your use case diagram should show the actors, the use cases and their relationships.
+
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/e363c650-ff82-4856-aa73-5e1cc17707cd" />
 
 
 **Appendix:**
