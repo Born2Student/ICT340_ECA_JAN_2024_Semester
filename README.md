@@ -12,6 +12,8 @@ the following:
 
 Identify the Actors in the system.
 
+**ANS:**
+
 Primary Actors:
 Drivers, Customers, Administrator, Premium Customers (Inherited From Customers)
 
@@ -24,6 +26,8 @@ Bank System
 Formulate a use case diagram to depict the PickMeNow system design.
 
 Your use case diagram should show the actors, the use cases and their relationships.
+
+**ANS**
 
 <img width="417" alt="image" src="https://github.com/user-attachments/assets/e363c650-ff82-4856-aa73-5e1cc17707cd" />
 
@@ -44,6 +48,8 @@ Note that in your answers, you are not supposed to use imagination to add anythi
 
 Further, do not include general commentaries in your answer.
 
+**ANS**
+
 The system design is inconsistent and ambiguous.
 
 1. Inconsistent Cancellation Policy:
@@ -52,6 +58,26 @@ It is inconsistent because the requirements excerpt mentions that customers can 
 2. Ambiguous Vehicle Selection:
 It is ambiguous because the requirements excerpt mentions that customers can choose a destination and wait for a taxi to arrive which is ambiguous because the information in the appendix stated that PickMeNow offers customers 3 different types of vehicles for their ride which are cars, vans and excursion buses. Meanwhile, the requirements excerpt does not clarify if taxi referred to all vehicle types or 1 of the 3 vehicle types that customers can choose from. 
 
+
+**Question 2**
+Develop a structural model for the food ordering system design, by submitting your answers to the following:
+
+**Question 2a (15 marks)**
+Complete the class description by identifying classes, their attributes and any hierarchical relationship(s) that would be required for the application.
+
+**ANS:**
+
+<img width="826" alt="Screenshot 2024-12-28 at 5 01 32 PM" src="https://github.com/user-attachments/assets/12fb5a1c-fba0-482a-9a07-090b29f9e438" />
+<img width="826" alt="Screenshot 2024-12-28 at 5 01 45 PM" src="https://github.com/user-attachments/assets/8822e883-701b-42f7-af32-1638dba2798a" />
+<img width="826" alt="Screenshot 2024-12-28 at 5 02 00 PM" src="https://github.com/user-attachments/assets/258ea971-755c-4b71-a46d-bcfce0daabd2" />
+<img width="826" alt="Screenshot 2024-12-28 at 5 02 11 PM" src="https://github.com/user-attachments/assets/e1a06f9b-1c26-47a2-8372-788a3f117af8" />
+
+**Question 2b (15 marks)**
+
+Appraise the associations among the classes and hierarchical relationship(s) that would
+be required for the application. Construct the class association diagram in UML as your
+answer. Ensure that you do not include any derived or redundant association in your
+diagram.
 
 
 **Appendix:**
