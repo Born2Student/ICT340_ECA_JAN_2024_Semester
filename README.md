@@ -158,7 +158,13 @@ Implement the concrete classes for the structural model in Question 5(a).
 
 **ANS:**
 
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/2a19ea9f-ae07-4c84-a45b-fbdcc2b11006" />
+<img width="771" alt="Screenshot 2024-12-28 at 5 09 28 PM" src="https://github.com/user-attachments/assets/5781a1ee-1395-4ce9-986b-439c2a0c4d88" />
+<img width="771" alt="Screenshot 2024-12-28 at 5 09 39 PM" src="https://github.com/user-attachments/assets/357bcb7d-fd29-4ea0-8a6c-b9588d19a806" />
+<img width="771" alt="Screenshot 2024-12-28 at 5 10 17 PM" src="https://github.com/user-attachments/assets/8033a88a-44d6-4091-9d4d-38a8101c3445" />
+<img width="771" alt="Screenshot 2024-12-28 at 5 16 24 PM" src="https://github.com/user-attachments/assets/c7079567-5829-4583-86b9-793e0f8e8e7c" />
+<img width="771" alt="Screenshot 2024-12-28 at 5 16 34 PM" src="https://github.com/user-attachments/assets/c11eda88-61c6-40ae-ab00-445f300950f4" />
+<img width="771" alt="Screenshot 2024-12-28 at 5 16 56 PM" src="https://github.com/user-attachments/assets/f60df48e-e332-4f88-807d-d89b87dedde3" />
+<img width="771" alt="Screenshot 2024-12-28 at 5 17 06 PM" src="https://github.com/user-attachments/assets/5e5f396e-989e-4634-90cf-66f39baacd09" />
 
 
 **Appendix:**
