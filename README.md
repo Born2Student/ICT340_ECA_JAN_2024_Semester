@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a321beb7-c4fd-400b-b266-5d981e6ed5df)# ICT340 - Application Analysis and Design
+# ICT340 - Application Analysis and Design
 
 # ICT340 End-of-Course Assessment (ECA01) - January Semester 2024
 
@@ -26,6 +26,32 @@ Formulate a use case diagram to depict the PickMeNow system design.
 Your use case diagram should show the actors, the use cases and their relationships.
 
 <img width="417" alt="image" src="https://github.com/user-attachments/assets/e363c650-ff82-4856-aa73-5e1cc17707cd" />
+
+
+**Question 1(b) (4 marks)**
+
+The following is an extract of the requirements of the PickMeNow system:
+
+"PickMeNow is a unique taxi-booking experience that allows
+customers to access drivers. Customers can just select a destination
+and then wait for his taxi to arrive. Payment is also easy with a
+choice of cash or credit card. If the customer changes his mind, he
+can always cancel without any penalty."
+
+Analyse the above requirements to identify and explain any TWO (2) ambiguous, incorrect, incomplete or inconsistent inadequacies of the system design.
+
+Note that in your answers, you are not supposed to use imagination to add anything not mentioned in the requirements. 
+
+Further, do not include general commentaries in your answer.
+
+The system design is inconsistent and ambiguous.
+
+1. Inconsistent Cancellation Policy:
+It is inconsistent because the requirements excerpt mentions that customers can always cancel without any penalty which contradicts the information in the appendix which stated that customers would be penalized with a $4 surcharge fee for cancelling after 5 minutes of car bookings.
+
+2. Ambiguous Vehicle Selection:
+It is ambiguous because the requirements excerpt mentions that customers can choose a destination and wait for a taxi to arrive which is ambiguous because the information in the appendix stated that PickMeNow offers customers 3 different types of vehicles for their ride which are cars, vans and excursion buses. Meanwhile, the requirements excerpt does not clarify if taxi referred to all vehicle types or 1 of the 3 vehicle types that customers can choose from. 
+
 
 
 **Appendix:**
