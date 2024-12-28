@@ -85,6 +85,60 @@ be required for the application. Construct the class association diagram in UML 
 answer. Ensure that you do not include any derived or redundant association in your
 diagram.
 
+**ANS:**
+
+<img width="510" alt="image" src="https://github.com/user-attachments/assets/b535fc5f-b322-498c-a3d3-ba483a9c3c89" />
+
+
+### Question 3
+
+Analysis on the requirements for the driver give rise to an updated class diagram which allows a driver to accept a ride and update the ride status to "Driver Assigned", part of which is shown in Figure Q3 below.
+
+Note that this may not be applicable to Question 2 above.
+
+<img width="700" alt="Screenshot 2024-12-28 at 5 07 08 PM" src="https://github.com/user-attachments/assets/8f5868a3-327d-4c4b-838a-9f4bf4c184e7" />
+
+**Question 3a (8 marks)**
+
+Develop the dynamic model for the application function, by drawing the sequence diagram for the walkthrough to accept a ride so that a driver is assigned.
+
+**ANS:**
+
+<img width="490" alt="image" src="https://github.com/user-attachments/assets/40ee904a-b1fb-4f6d-9cfb-323f9bba3f6a" />
+
+**Question 3b**
+
+Implement the method in the following classes that is responsible for accepting a ride
+and assigning a driver:
+
+**Question 3b(i) (4 marks)**
+
+the orchestrating class
+
+**ANS:**
+
+<img width="771" alt="Screenshot 2024-12-28 at 5 09 28 PM" src="https://github.com/user-attachments/assets/58b90813-8130-4eda-8cfb-f2384c81c5f1" />
+<img width="771" alt="Screenshot 2024-12-28 at 5 09 39 PM" src="https://github.com/user-attachments/assets/f1902dc2-8e16-4046-b64f-0cfdbfdf74a3" />
+
+**Question 3b(ii) (4 marks)**
+
+the Ride class
+
+**ANS:**
+
+<img width="771" alt="Screenshot 2024-12-28 at 5 10 17 PM" src="https://github.com/user-attachments/assets/4334548f-098c-4dbe-907f-0a230103d479" />
+
+
+### Question 4 (14 marks)
+
+Demonstrate the construction of a component in the PickMeNow system by submitting your answers to the following:
+
+Draw the state diagram for a Ride object as it passes through the system.
+
+**ANS:**
+
+<img width="504" alt="image" src="https://github.com/user-attachments/assets/6296dc1f-3915-40ca-bbe0-3dafa0899e13" />
+
 
 
 
